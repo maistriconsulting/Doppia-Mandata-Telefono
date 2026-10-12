@@ -12,17 +12,17 @@
 </head>
 <body>
 <h1>Doppia Mandata per Chrome: informativa sulla privacy</h1>
-<p>Ultimo aggiornamento: 10 ottobre 2026.</p>
+<p>Ultimo aggiornamento: 12 ottobre 2026.</p>
 
 <h2>Cosa fa l'estensione</h2>
-<p>Riempie nome utente e password nella pagina aperta, quando l'utente lo chiede, prendendoli dal programma Doppia Mandata installato sullo stesso computer. Permette anche di creare e usare le passkey dei siti, custodite nel programma: ogni passkey si crea o si usa solo dopo la conferma dell'utente nel programma. Dopo un accesso riuscito propone di salvare nel programma un accesso nuovo o una password cambiata: si salva solo se l'utente lo conferma nel programma.</p>
+<p>Propone e riempie nome utente e password nelle pagine di accesso, prendendoli dal programma Doppia Mandata installato sullo stesso computer: le proposte compaiono in un riquadro dell'estensione dentro la pagina, che il sito non può leggere, e i campi si riempiono solo dopo il tocco dell'utente su Accedi. Permette anche di creare e usare le passkey dei siti, custodite nel programma: ogni passkey si crea o si usa solo dopo la scelta dell'utente nel riquadro. Dopo un accesso riuscito propone di salvare nel programma un accesso nuovo o una password cambiata: si salva solo se l'utente sceglie Salva o Aggiorna.</p>
 
 <h2>Quali dati tratta</h2>
 <ul>
-  <li><strong>Indirizzo della pagina aperta</strong>, solo quando l'utente apre l'estensione: serve a mostrare i login salvati per quel sito.</li>
+  <li><strong>Indirizzo della pagina aperta</strong> e presenza di campi di accesso (nome utente, password, codice monouso) nelle pagine https e su http://localhost: servono a mostrare i login salvati per quel sito. Dalla pagina non si leggono altri contenuti.</li>
   <li><strong>Nome utente, password e codice monouso</strong> della voce scelta dall'utente: passano dal programma alla pagina al momento del riempimento e non vengono conservati dall'estensione.</li>
-  <li><strong>Richieste di passkey</strong>, quando un sito ne chiede una: l'origine della pagina, il nome del sito e dell'account indicati dal sito e la sfida da firmare. Passano al programma, che chiede conferma all'utente e restituisce al sito solo la risposta firmata. La chiave della passkey non esce mai dal programma.</li>
-  <li><strong>Nome utente e password inviati in un modulo di accesso</strong>, solo quando l'utente invia un modulo con un campo password compilato da lui, insieme all'indirizzo della pagina: restano in memoria nell'estensione al massimo un minuto, il tempo di capire se l'accesso è riuscito, e passano al programma, che chiede all'utente se salvarli. L'estensione non li conserva.</li>
+  <li><strong>Richieste di passkey</strong>, quando un sito ne chiede una: l'origine della pagina, il nome del sito e dell'account indicati dal sito e la sfida da firmare. Passano al programma; dopo la scelta dell'utente nel riquadro il programma restituisce al sito solo la risposta firmata. La chiave della passkey non esce mai dal programma.</li>
+  <li><strong>Nome utente e password inviati in un modulo di accesso</strong>, solo quando l'utente invia un modulo con un campo password compilato da lui, insieme all'indirizzo della pagina: restano in memoria nell'estensione il tempo di capire se l'accesso è riuscito (al massimo un minuto) e di chiedere all'utente se salvarli (al massimo tre minuti), poi passano al programma oppure si dimenticano. Negli accessi in due passaggi il nome utente scritto nella prima pagina resta in memoria al massimo cinque minuti. L'estensione non li conserva su disco.</li>
   <li><strong>Un gettone di abbinamento</strong> casuale, salvato nell'archivio locale dell'estensione, che il programma riconosce dopo che l'utente ha confermato il collegamento.</li>
 </ul>
 
