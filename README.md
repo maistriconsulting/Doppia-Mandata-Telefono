@@ -8,7 +8,7 @@ Il codice sorgente è in un repository privato.
 
 ## Installare su iPhone
 
-1. Apri l'indirizzo dell'app con **Safari**: https://maistriconsulting.github.io/doppia-mandata-telefono/
+1. Apri l'indirizzo dell'app con **Safari**: https://maistriconsulting.github.io/Doppia-Mandata-Telefono/
 2. Tocca il pulsante **Condividi**, poi **Aggiungi alla schermata Home**.
 3. Apri l'app dalla schermata Home, inserisci seconda chiave e password e tocca **Prendi da Google Drive** (oppure scegli a mano un file `.dmbak`).
 4. Da lì in poi l'app prende da sola il backup cifrato più recente caricato dal computer su Google Drive.
