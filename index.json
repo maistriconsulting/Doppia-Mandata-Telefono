@@ -1,0 +1,71 @@
+{
+  "releases": [
+    {
+      "version": "0.2.42",
+      "target": "darwin",
+      "arch": "aarch64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.42-arm64-mac.zip",
+      "fileSize": 131143076,
+      "fileSha256": "516a7be7f3df431baf1b1635a4424b848cdaf7431535d463571ac9a9b02779f0",
+      "signature": "bIBcfng3d0WVi93JCti8jshseVSidIq9qswx3Ke5Kif3StqOSQ6RN/UvQk4XQtcTEhhNMJmHOIoHbzWAyqDmBw==",
+      "notes": "Stampanti e foto per tutte le voci (Carica foto, Aggiorna foto dal link, Visualizza, Rimuovi).",
+      "createdAt": "2026-10-17T16:33:43.826Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.42-arm64-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "0f8a968a9df4e58308f984ffa9194688dc4427ddeea3d8efee6116d0665ef3e6"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.42-arm64-mac.zip.parte1",
+          "size": 36771236,
+          "sha256": "90efd6025b04b49df29cd7cdad356889ccfb25b37a12a305d611e9102aedeced"
+        }
+      ]
+    },
+    {
+      "version": "0.2.42",
+      "target": "darwin",
+      "arch": "x86_64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.42-mac.zip",
+      "fileSize": 136817850,
+      "fileSha256": "2df41138baa6845395ec659806a63ed5b3ad33eb2d3dc1e6368a40612bd366f4",
+      "signature": "H6MUAO/ac3w0tln6HFA91UyohK6KbZ3J4/sC9o+HNserBMhv7JtQuxFLIsVgO1Jf3BsblTq7k3GVgLSv+mcACQ==",
+      "notes": "Stampanti e foto per tutte le voci (Carica foto, Aggiorna foto dal link, Visualizza, Rimuovi).",
+      "createdAt": "2026-10-17T16:33:44.785Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.42-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "e1e235444865469d56a68cf9bd393d6ec0efd66058bbefbdac5354daceabc62c"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.42-mac.zip.parte1",
+          "size": 42446010,
+          "sha256": "4d9818c429b76d6973cb08f17096620f23d8be425b907f6dfba16466799add65"
+        }
+      ]
+    },
+    {
+      "version": "0.2.42",
+      "target": "linux",
+      "arch": "x86_64",
+      "formato": "rpm",
+      "fileName": "doppia-mandata-0.2.42.x86_64.rpm",
+      "fileSize": 90370997,
+      "fileSha256": "9bfece29a141c48c81dd95e73303e6a5bf5a5dedd6e36aa81e49a40cd14a73d6",
+      "signature": "3FC5CoyFR4ginWXSAJ8qIZs39Z5+nzdtyZaDTyMrH/n8o948+qaN+X0BHnrOk6NZadC5U80n+pOhx1jNCYR/BA==",
+      "notes": "Stampanti e foto per tutte le voci (Carica foto, Aggiorna foto dal link, Visualizza, Rimuovi).",
+      "createdAt": "2026-10-17T16:33:45.390Z",
+      "parts": [
+        {
+          "name": "doppia-mandata-0.2.42.x86_64.rpm.parte0",
+          "size": 90370997,
+          "sha256": "9bfece29a141c48c81dd95e73303e6a5bf5a5dedd6e36aa81e49a40cd14a73d6"
+        }
+      ]
+    }
+  ]
+}
