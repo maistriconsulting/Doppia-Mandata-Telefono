@@ -1,0 +1,71 @@
+{
+  "releases": [
+    {
+      "version": "0.2.43",
+      "target": "darwin",
+      "arch": "aarch64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.43-arm64-mac.zip",
+      "fileSize": 131143013,
+      "fileSha256": "01f61929e4380bc9efee5a8979583436cea616d135c5af6b2556c43205e127eb",
+      "signature": "1ct6z9vI1HOWEQDKc5mwtrDKcTfJcK1IixCV0Xs01uMSLipx68AnfuWQ4v8F6cd5CMhgO/Asrp3pXb1a1oo5AA==",
+      "notes": "Foto: menu solo in modifica, nella scheda la foto si vede come prima. Corretto l'invio nella finestra del link.",
+      "createdAt": "2026-10-18T07:19:35.464Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.43-arm64-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "775ebda36a50eb28c22d6d953ebe191d0988cc821d035ccfee4be5212391edf8"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.43-arm64-mac.zip.parte1",
+          "size": 36771173,
+          "sha256": "e9ac6cb3ce7b08fc5d92b94533f86f43eaae25733fdf019b17e6e60889a975a4"
+        }
+      ]
+    },
+    {
+      "version": "0.2.43",
+      "target": "darwin",
+      "arch": "x86_64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.43-mac.zip",
+      "fileSize": 136817785,
+      "fileSha256": "b31ba82f04e21412195727c222136c75308b4d14e5dc9a3eb0aa677707b7ab94",
+      "signature": "DRwb0WribPx01ySmpPI1EVYj1LGhZziBK+1ebmQKF1prNuDz1hnLTCzwgbFlSng5b2RvrGoR+8P5ESHDu6J/Bw==",
+      "notes": "Foto: menu solo in modifica, nella scheda la foto si vede come prima. Corretto l'invio nella finestra del link.",
+      "createdAt": "2026-10-18T07:19:36.466Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.43-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "bbde0225854aabb7ce68d815c5e3a31373d23c4656935c149adb423dd3987adb"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.43-mac.zip.parte1",
+          "size": 42445945,
+          "sha256": "29c8bcab8a228552ee8867a008a82b698ab9a42f664950427e0a2516349a3993"
+        }
+      ]
+    },
+    {
+      "version": "0.2.43",
+      "target": "linux",
+      "arch": "x86_64",
+      "formato": "rpm",
+      "fileName": "doppia-mandata-0.2.43.x86_64.rpm",
+      "fileSize": 90368057,
+      "fileSha256": "c2ea418951dfbec4bde1eb502e89994c41874768e7958a6049ec11894a8671b9",
+      "signature": "nisnMNbdk8IzGZbNNiZh8T94qyBQHKk0sUYaKajGEJ5/QTb9t1I9eX77eGRc2A01oEZRjq2lLKebUU/HHtNOCg==",
+      "notes": "Foto: menu solo in modifica, nella scheda la foto si vede come prima. Corretto l'invio nella finestra del link.",
+      "createdAt": "2026-10-18T07:19:37.075Z",
+      "parts": [
+        {
+          "name": "doppia-mandata-0.2.43.x86_64.rpm.parte0",
+          "size": 90368057,
+          "sha256": "c2ea418951dfbec4bde1eb502e89994c41874768e7958a6049ec11894a8671b9"
+        }
+      ]
+    }
+  ]
+}
