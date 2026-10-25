@@ -1,0 +1,71 @@
+{
+  "releases": [
+    {
+      "version": "0.2.44",
+      "target": "darwin",
+      "arch": "aarch64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.44-arm64-mac.zip",
+      "fileSize": 131142740,
+      "fileSha256": "f41aa0176652444a9ec9b6e1bc145e9fc44acb4a292374415dc76c6c4567b3bb",
+      "signature": "WB2bqpm+8zAclyUJ4Ded+XObX/Hm2q+/FwcO2x0Ui3oeYMrc9KPBiym/SwiAUOj842hmdRxe+XxT7i3W5PRcCA==",
+      "notes": "Estensione: comandi Mostra accessi (Alt+Maiusc+L) e Accedi (Alt+Maiusc+K). Programma: clic sul valore di un campo per copiarlo.",
+      "createdAt": "2026-10-25T08:11:50.976Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.44-arm64-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "922cc5481fd10a95bfa5db50d899686721b4c5deece93c32e0f5e1414db4efd1"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.44-arm64-mac.zip.parte1",
+          "size": 36770900,
+          "sha256": "a94b83a21e56f214021b797b726b8ea7aadbc1481703d009bd2a9f40fdcfe34e"
+        }
+      ]
+    },
+    {
+      "version": "0.2.44",
+      "target": "darwin",
+      "arch": "x86_64",
+      "formato": "app",
+      "fileName": "Doppia-Mandata-0.2.44-mac.zip",
+      "fileSize": 136817509,
+      "fileSha256": "35c3dca88cb5d91c4bcf8099fb8c29bfeac6401f3d0ddf827f15e49d9e74edb4",
+      "signature": "VYmLY/8pfmkCEU/DEPiP87WggMs2REe48srFCu7DFLMvHfO/rwch4H9xCOaS86Pnn83c9KQrowQGVNZwgusjAA==",
+      "notes": "Estensione: comandi Mostra accessi (Alt+Maiusc+L) e Accedi (Alt+Maiusc+K). Programma: clic sul valore di un campo per copiarlo.",
+      "createdAt": "2026-10-25T08:11:52.103Z",
+      "parts": [
+        {
+          "name": "Doppia-Mandata-0.2.44-mac.zip.parte0",
+          "size": 94371840,
+          "sha256": "d02a1d2fadf237a4100e2abe9cc572fba487cc44ddaa3592754a9337ed12becb"
+        },
+        {
+          "name": "Doppia-Mandata-0.2.44-mac.zip.parte1",
+          "size": 42445669,
+          "sha256": "843031725edfc76567e8df2d9ed07c91d7421a26c150a623f5eef5d309dc116e"
+        }
+      ]
+    },
+    {
+      "version": "0.2.44",
+      "target": "linux",
+      "arch": "x86_64",
+      "formato": "rpm",
+      "fileName": "doppia-mandata-0.2.44.x86_64.rpm",
+      "fileSize": 90390485,
+      "fileSha256": "ac6a4ccbbd1bcd36bc8a9e89843055bfbea63a850437f06bd14f93260318b2da",
+      "signature": "fSeI6zYNxwzyzNkYXMG5j/vEMp0hyhlXqN5WoYeQ9rx7F0I5mwAnqZhqZ8lV788L03ZPKrjxP31TW/5zRffiCQ==",
+      "notes": "Estensione: comandi Mostra accessi (Alt+Maiusc+L) e Accedi (Alt+Maiusc+K). Programma: clic sul valore di un campo per copiarlo.",
+      "createdAt": "2026-10-25T08:11:52.788Z",
+      "parts": [
+        {
+          "name": "doppia-mandata-0.2.44.x86_64.rpm.parte0",
+          "size": 90390485,
+          "sha256": "ac6a4ccbbd1bcd36bc8a9e89843055bfbea63a850437f06bd14f93260318b2da"
+        }
+      ]
+    }
+  ]
+}
